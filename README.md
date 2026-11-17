@@ -2,8 +2,8 @@
 
 **Counting the species a reference database can return: missing species and non-spanning references in amphibian dietary metabarcoding**
 
-Matthew Hulse, John McGrath, Marina Reyne, Karen Siu Ting
-School of Biological Sciences, Queen's University Belfast
+Matthew Hulse, John McGrath, Marina Reyne, Karen Siu Ting  
+School of Biological Sciences, Queen's University Belfast  
 VIBE 2026, Dublin City University, 3 December 2026
 
 Companion page for the poster, reached by the QR code on it:
